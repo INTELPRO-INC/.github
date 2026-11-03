@@ -18,6 +18,7 @@ Wi-Fi 6, on-device NPU AI and imaging.
 - **Documentation**: [intelpro-inc.github.io/ipro-sdk-docs](https://intelpro-inc.github.io/ipro-sdk-docs/) (繁體中文 / English)
 - **Source and releases**: [IPRO-SDK](https://github.com/INTELPRO-INC/IPRO-SDK)
 - **Online installer**: [ipro-sdk-releases](https://github.com/INTELPRO-INC/ipro-sdk-releases)
+- **IPRO AI Studio**: [ipro-ai-studio](https://github.com/INTELPRO-INC/ipro-ai-studio) (IPRO AI Teach and model tools for the IPRO7AI Reef EVK, macOS / Windows)
 
 ### 關於英特博
 
