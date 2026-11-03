@@ -20,6 +20,20 @@ Wi-Fi 6, on-device NPU AI and imaging.
 - **Online installer**: [ipro-sdk-releases](https://github.com/INTELPRO-INC/ipro-sdk-releases)
 - **IPRO AI Studio**: [ipro-ai-studio](https://github.com/INTELPRO-INC/ipro-ai-studio) (IPRO AI Teach and model tools for the IPRO7AI Reef EVK, macOS / Windows)
 
+### Development tools
+
+Each tool has its own repository with release packages for Windows, macOS and Linux; its README lists
+the systems available today. On Windows, [Online Setup](https://github.com/INTELPRO-INC/ipro-sdk-releases)
+installs them for you.
+
+| Tool | Repository |
+|---|---|
+| RISC-V GCC toolchain | [ipro-toolchain](https://github.com/INTELPRO-INC/ipro-toolchain) |
+| IntelProCube flashing and OTA tools | [ipro-cube](https://github.com/INTELPRO-INC/ipro-cube) |
+| OpenOCD for on-chip debugging | [ipro-openocd](https://github.com/INTELPRO-INC/ipro-openocd) |
+| Build tools (CMake, Ninja, Python) | [ipro-build-tools](https://github.com/INTELPRO-INC/ipro-build-tools) |
+| VS Code Extension | [ipro-vscode-extension](https://github.com/INTELPRO-INC/ipro-vscode-extension) |
+
 ### 關於英特博
 
 英特博 INTELPRO 總部位於台灣竹北，提供 AIoT 晶片與軟硬體整合方案。IPRO 系列 RISC-V
